@@ -1,5 +1,11 @@
 # Write and publish a vLLM workload template
 
+Guide URL  
+<https://raw.githubusercontent.com/ObitoAI/obito-releases/guides-v1/docs/guides/workload-template.md>
+
+
+-----------
+
 A workload template is a versioned source package. Its `build(ctx)` function
 describes one workload. A deployment supplies the workload's binding name,
 inputs, placement, and replica count.

@@ -1,5 +1,11 @@
 # Deploy vLLM on Obito
 
+Guide URL  
+<https://raw.githubusercontent.com/ObitoAI/obito-releases/guides-v1/docs/guides/deployment.md>
+
+
+-----------
+
 A deployment runs one or more named workload bindings in a single cluster.
 Each binding uses an immutable workload template version and its own inputs,
 placement, and replica settings.
